@@ -2672,7 +2672,12 @@ wait
 ' > bin/dev.sh
 chmod +x bin/dev.sh
 echo -e "${GREEN}   bin/ populated.${NC}"
-echo ""
+echo "
+ _______ _     _ _______ _____ _     _ _     _
+ |______ |_____| |______   |   |____/  |_____|
+ ______| |     | |______ __|__ |    \_ |     |
+                                              
+"
 
 # Final instructions
 echo -e "${GREEN}----------------------------------------------------${NC}"
