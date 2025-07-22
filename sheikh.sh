@@ -2700,5 +2700,3 @@ echo ""
 echo -e "${BLUE}Remember to explore the CLI: ${NC}"
 echo -e "${PURPLE}python cli/main.py --help${NC} or ${PURPLE}python cli/main.py interactive${NC}"
 echo -e "${CYAN}----------------------------------------------------${NC}"
-
-```
